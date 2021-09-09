@@ -1,4 +1,4 @@
-# No-Not-Vegas
+# No, Not Vegas
 
 September 9th, 2021 - Full Install: ~40GB.
 
