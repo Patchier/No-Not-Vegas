@@ -56,7 +56,7 @@ By default, Steam only allows one library per drive, but there is a workaround. 
 Install No, Not Vegas via Wabbajack: 
 ----------------------------------------- 
 
-1.  Download No, Not Vegas from my G-Drive (you've probably already done this part): 
+1.  Download No, Not Vegas from the Wabbajack Gallery (you've probably already done this part): 
 
 2.  After that, you will choose an installation folder (I recommend something like "D:/No, Not Vegas", substituting D: for any drive available.) This CANNOT be where Wabbajack.exe is located, nor your Fallout New Vegas folder.
 
