@@ -18,7 +18,7 @@ This ReadMe is designed to help you with installing and beginning your adventure
 
 ## First off, you will need:
 
--   A clean, fresh, and LEGAL GOG or Steam installation of Fallout: New Vegas w/ all DLCs
+-   A clean, fresh, and LEGAL Steam installation of Fallout: New Vegas w/ all DLCs
 
 -   50GB free to install the list itself
 
