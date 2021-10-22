@@ -1,6 +1,6 @@
 # No, Not Vegas
 
-September 9th, 2021 - Full Install: ~40GB.
+October 22nd, 2021 - Full Install: ~50GB.
 
 ## OVERVIEW
 
@@ -18,7 +18,7 @@ This ReadMe is designed to help you with installing and beginning your adventure
 
 ## First off, you will need:
 
--   A clean, fresh, and LEGAL Steam installation of Fallout: New Vegas w/ all DLCs
+-   A clean, fresh, and LEGAL GOG or Steam installation of Fallout: New Vegas w/ all DLCs
 
 -   50GB free to install the list itself
 
@@ -37,9 +37,16 @@ If you have the game installed under `C:\Program Files\`, `C:\Program Files (x86
 3. Right-click on it and select **Manage** -> **Uninstall**.
 4. Navigate to `Steam\steamapps\common\` and, if present, delete the **Fallout New Vegas** folder.
 
+#### GOG
+
+1. Open **GOG** and go to your **Library**.
+2. Find **Fallout: New Vegas** in the list.
+3. Right-click on it and select **Manage Installation** -> **Uninstall**.
+4. Navigate to where the game was installed (`GOG Galaxy\Games` by default) and, if present, delete the **Fallout New Vegas** folder.
+
 ### Making a new Steam Library
 
-If you already have a Steam library set up outside of any default Windows folder, skip this step.
+If you already have a Steam library set up outside of any default Windows folder, or you have the game on GOG, skip this step.
 
 A new Steam library needs to be set up to install the game on, as the default library is in a default Windows UAC-protected folder (`C:\Program Files (x86)\Steam`).
 
@@ -56,7 +63,7 @@ By default, Steam only allows one library per drive, but there is a workaround. 
 Install No, Not Vegas via Wabbajack: 
 ----------------------------------------- 
 
-1.  Download No, Not Vegas from the Wabbajack Gallery (you've probably already done this part): 
+1.  Download No, Not Vegas from my G-Drive (you've probably already done this part): 
 
 2.  After that, you will choose an installation folder (I recommend something like "D:/No, Not Vegas", substituting D: for any drive available.) This CANNOT be where Wabbajack.exe is located, nor your Fallout New Vegas folder.
 
@@ -64,7 +71,13 @@ Install No, Not Vegas via Wabbajack:
 
 4.  From there, just click the "play" button and let it do the rest. If you do not have Nexus Premium, you will have to follow along to the manual download prompts.
 
-5. Once the list has finished installing, open the folder you installed it to, and double-click on ModOrganizer.exe
+5. Once the list has finished installing, open the folder you installed it to, and proceed to the "Game Folder Files" folder. 
+
+6. Copy the items inside of the Game Folder Files folder to your Fallout: New Vegas installation location. (NOTE: NOT THE FOLDER ITSELF, JUST WHAT'S IN IT.)
+
+7. Once the files are copied over, run the FalloutNVpatch.exe. This will patch your New Vegas exe to be Large Address Aware, letting you enjoy the list with a severely decreased risk of crashing.
+
+8. IMPORTANT: IF YOU'RE USING GOG, DELETE THE FNV-Lang.esp PLUGIN. 
 
 ## Starting the game
 
