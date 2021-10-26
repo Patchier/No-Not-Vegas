@@ -79,6 +79,17 @@ Install No, Not Vegas via Wabbajack:
 
 8. IMPORTANT: IF YOU'RE USING GOG, DELETE THE FNV-Lang.esp PLUGIN. 
 
+## Decompress your BSAs
+-------------------------
+
+1. In your No, Not Vegas installation folder, there will be folder labelled "Tools". Open it.
+
+2. Open the folder labelled "BSA Decompressor", and double-click on "FNV BSA Decompressor.exe"
+
+3. when the program opens, it should default to your New Vegas installation folder. If it does not, click "Browse", and navigate there, then click "Ok".
+
+4. Run the program. It will take a little while, but trust me, it will be worth it. Afterwords, close out of the program.
+
 ## Starting the game
 
 Once you've finished installing the modlist, simply navigate to your installation folder for the modlist, open ModOrganizer.exe, and launch it via the New Vegas option, which should be selected for you. If not, simply choose it from the drop-down and click "run". 
