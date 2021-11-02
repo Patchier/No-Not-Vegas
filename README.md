@@ -73,11 +73,13 @@ Install No, Not Vegas via Wabbajack:
 
 5. Once the list has finished installing, open the folder you installed it to, and proceed to the "Game Folder Files" folder. 
 
-6. Copy the items inside of the Game Folder Files folder to your Fallout: New Vegas installation location. (NOTE: NOT THE FOLDER ITSELF, JUST WHAT'S IN IT.)
+6. Copy the items inside of the Game Folder Files folder EXCEPT THE NEW VEGAS HEAP REPLACER FOLDER to your Fallout: New Vegas installation location. (NOTE: NOT THE FOLDER ITSELF, JUST WHAT'S IN IT.)
 
-7. Once the files are copied over, run the FalloutNVpatch.exe. This will patch your New Vegas exe to be Large Address Aware, letting you enjoy the list with a severely decreased risk of crashing.
+7. Inside the New Vegas Heap Replacer folder within Game Folder Files, run the EXE. Then, copy the d3dx9_38.dll from whichever folder it tells you into your Fallout: New Vegas installation location. Overwrite if asked.
 
-8. IMPORTANT: IF YOU'RE USING GOG, DELETE THE FNV-Lang.esp PLUGIN. 
+8. Once the files are copied over, run the FalloutNVpatch.exe. This will patch your New Vegas exe to be Large Address Aware, letting you enjoy the list with a severely decreased risk of crashing.
+
+9. IMPORTANT: IF YOU'RE USING GOG, DELETE THE FNV-Lang.esp PLUGIN. 
 
 ## Decompress your BSAs
 -------------------------
