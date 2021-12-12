@@ -96,6 +96,10 @@ Install No, Not Vegas via Wabbajack:
 
 Once you've finished installing the modlist, simply navigate to your installation folder for the modlist, open ModOrganizer.exe, and launch it via the New Vegas option, which should be selected for you. If not, simply choose it from the drop-down and click "run". 
 
+## MCM Settings
+
+This list includes several mods which utilize hotkey shortcuts. I have no real recommendations regarding these, but I advise you look through the few MCMs there are and set up keybinds however you wish.
+
 ## New Reno
 
 - As of the writing of this section, Tales of New Reno is in the process of major updates. I will immediately be carrying these over once it is complete, but bugs are INCREDIBLY LIKELY! I've playtested this list for a few hours, and had no major issues, but I CANNOT guarantee you will not. Keep this in mind. 
