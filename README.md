@@ -1,16 +1,16 @@
-# No, Not Vegas
+# My Kind of Courier
 
-October 22nd, 2021 - Full Install: ~50GB.
+October 22nd, 2021 - Full Install: ~54GB.
 
 ## OVERVIEW
 
-This ReadMe is designed to help you with installing and beginning your adventures in New Reno, alongside a few new quests.
+This ReadMe is designed to help you with installing and beginning your adventures in New Vegas, with a few friends along.
 
 ## GOALS
 
 -  Install and make minor configuration to Fallout: New Vegas.
 
--  Install and get started with the New Reno experience you deserve!
+-  Install and get started with My Kind of Courier!
 
 ## SPECIFICATIONS
 
@@ -20,7 +20,7 @@ This ReadMe is designed to help you with installing and beginning your adventure
 
 -   A clean, fresh, and LEGAL GOG or Steam installation of Fallout: New Vegas w/ all DLCs
 
--   50GB free to install the list itself
+-   55GB free to install the list itself
 
 ## Install Fallout: New Vegas
 
@@ -60,12 +60,12 @@ By default, Steam only allows one library per drive, but there is a workaround. 
 
 - While you're here, run the game once, and after the launcher has detected your graphics settings, you may close out of it. We just needed those initial INIs to be created. They will be superceded by the ones in my modlist.
 
-Install No, Not Vegas via Wabbajack: 
+Install My Kind of Courier via Wabbajack: 
 ----------------------------------------- 
 
-1.  Download No, Not Vegas from my G-Drive (you've probably already done this part): 
+1.  Download My Kind of Courier from my G-Drive (you've probably already done this part): 
 
-2.  After that, you will choose an installation folder (I recommend something like "D:/No, Not Vegas", substituting D: for any drive available.) This CANNOT be where Wabbajack.exe is located, nor your Fallout New Vegas folder.
+2.  After that, you will choose an installation folder (I recommend something like "D:/My Kind of Courier", substituting D: for any drive available.) This CANNOT be where Wabbajack.exe is located, nor your Fallout New Vegas folder.
 
 3.  Downloads will auto-populate for you, but you can change that location if you so choose. 
 
@@ -84,7 +84,7 @@ Install No, Not Vegas via Wabbajack:
 ## Decompress your BSAs
 -------------------------
 
-1. In your No, Not Vegas installation folder, there will be folder labelled "Tools". Open it.
+1. In your My Kind of Courier installation folder, there will be folder labelled "Tools". Open it.
 
 2. Open the folder labelled "BSA Decompressor", and double-click on "FNV BSA Decompressor.exe"
 
@@ -99,7 +99,3 @@ Once you've finished installing the modlist, simply navigate to your installatio
 ## MCM Settings
 
 This list includes several mods which utilize hotkey shortcuts. I have no real recommendations regarding these, but I advise you look through the few MCMs there are and set up keybinds however you wish.
-
-## New Reno
-
-- As of the writing of this section, Tales of New Reno is in the process of major updates. I will immediately be carrying these over once it is complete, but bugs are INCREDIBLY LIKELY! I've playtested this list for a few hours, and had no major issues, but I CANNOT guarantee you will not. Keep this in mind. 
