@@ -2,6 +2,11 @@
 
 October 22nd, 2021 - Full Install: ~54GB.
 
+**Modlist Download: [My kind of Courier.wabbajack](https://drive.google.com/drive/folders/1lYxE8Zg5wcI5Cn6mYuMdVyhRlWGnH8iU)**
+
+**Modlist Support: [The Animonculory Server](https://discord.gg/DffHKcszfg)**
+
+
 ## OVERVIEW
 
 This ReadMe is designed to help you with installing and beginning your adventures in New Vegas, with a few friends along.
