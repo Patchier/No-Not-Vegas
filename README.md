@@ -41,17 +41,17 @@ N to configure Main & Pause Menu Overhaul
 
 ## First off, you will need:
 
--   A clean, fresh, and LEGAL GOG or Steam installation of Fallout: New Vegas w/ all DLCs
+-   A clean, fresh, and LEGAL GOG or Steam installation of Fallout: New Vegas AND Fallout 3 w/ all DLCs
 
--   55GB free to install the list itself
+-   65GB free to install the list itself
 
-## Install Fallout: New Vegas
+## Install Fallout: New Vegas & Fallout 3
 
-- This part is self-explanatory. You'll want to go to the installation of the game, and remove all files present in the install folder (For example, steamapps/common/Fallout New Vegas) AND the Documents folder (Documents/My Games/FalloutNV)
+- This part is self-explanatory. You'll want to go to the installation of the game, and remove all files present in the install folder (For example, steamapps/common/Fallout New Vegas) AND the Documents folder (Documents/My Games/FalloutNV). Do the same for Fallout 3, as well.
 
 ### Uninstalling the game
 
-If you have the game installed under `C:\Program Files\`, `C:\Program Files (x86)\`, your Desktop, or your Documents folders, follow these steps to remove it.
+If you have the games installed under `C:\Program Files\`, `C:\Program Files (x86)\`, your Desktop, or your Documents folders, follow these steps to remove it.
 
 #### Steam
 
@@ -59,6 +59,7 @@ If you have the game installed under `C:\Program Files\`, `C:\Program Files (x86
 2. Find **Fallout: New Vegas** in the list.
 3. Right-click on it and select **Manage** -> **Uninstall**.
 4. Navigate to `Steam\steamapps\common\` and, if present, delete the **Fallout New Vegas** folder.
+5. Ditto for Fallout 3
 
 #### GOG
 
@@ -66,6 +67,7 @@ If you have the game installed under `C:\Program Files\`, `C:\Program Files (x86
 2. Find **Fallout: New Vegas** in the list.
 3. Right-click on it and select **Manage Installation** -> **Uninstall**.
 4. Navigate to where the game was installed (`GOG Galaxy\Games` by default) and, if present, delete the **Fallout New Vegas** folder.
+5. Ditto for Fallout 3
 
 ### Making a new Steam Library
 
@@ -81,14 +83,14 @@ A new Steam library needs to be set up to install the game on, as the default li
 
 By default, Steam only allows one library per drive, but there is a workaround. If for example you already have the default Steam library at `C:\Program Files (x86)\Steam`, but still want your game on your `C:\` drive, you will need to follow [these instructions](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide) to do so.
 
-- While you're here, run the game once, and after the launcher has detected your graphics settings, you may close out of it. We just needed those initial INIs to be created. They will be superceded by the ones in my modlist.
+- While you're here, run the games once each, and after the launcher has detected your graphics settings, make any special adjustments you need, then you may close out of it. We just needed those initial INIs to be created.
 
 Install My Kind of Courier via Wabbajack: 
 ----------------------------------------- 
 
-1.  Download My Kind of Courier from my G-Drive (you've probably already done this part): 
+1.  Download My Kind of Courier from my G-Drive (you've probably already done this part, but if not, link is at the top): 
 
-2.  After that, you will choose an installation folder (I recommend something like "D:/My Kind of Courier", substituting D: for any drive available.) This CANNOT be where Wabbajack.exe is located, nor your Fallout New Vegas folder.
+2.  After that, you will choose an installation folder (I recommend something like "D:/My Kind of Courier", substituting D: for any drive available.) This CANNOT be where Wabbajack.exe is located, nor your Fallout New Vegas or Fallout 3 folder.
 
 3.  Downloads will auto-populate for you, but you can change that location if you so choose. 
 
@@ -96,29 +98,29 @@ Install My Kind of Courier via Wabbajack:
 
 5. Once the list has finished installing, open the folder you installed it to, and proceed to the "Game Folder Files" folder. 
 
-6. Copy the items inside of the Game Folder Files folder EXCEPT THE NEW VEGAS HEAP REPLACER FOLDER to your Fallout: New Vegas installation location. (NOTE: NOT THE FOLDER ITSELF, JUST WHAT'S IN IT.)
+6. Copy the items inside of the Game Folder Files folder to your Fallout: New Vegas installation location. (NOTE: NOT THE FOLDER ITSELF, JUST WHAT'S IN IT.)
 
-7. Inside the New Vegas Heap Replacer folder within Game Folder Files, run the EXE. Then, copy the d3dx9_38.dll from whichever folder it tells you into your Fallout: New Vegas installation location. Overwrite if asked.
+7. Inside the New Vegas Heap Replacer folder within the installation directory, run the EXE. Then, copy the d3dx9_38.dll from whichever folder it tells you into your Fallout: New Vegas installation location. Overwrite if asked.
 
 8. Once the files are copied over, run the FalloutNVpatch.exe. This will patch your New Vegas exe to be Large Address Aware, letting you enjoy the list with a severely decreased risk of crashing.
 
 9. IMPORTANT: IF YOU'RE USING GOG, DELETE THE FNV-Lang.esp PLUGIN. 
 
-## Decompress your BSAs
--------------------------
+## Install Tale of Two Wastelands
+----------------------------------
 
 1. In your My Kind of Courier installation folder, there will be folder labelled "Tools". Open it.
 
-2. Open the folder labelled "BSA Decompressor", and double-click on "FNV BSA Decompressor.exe"
+2. Open the folder labelled "TTW 3.3 Installer", and double-click on "TTW Install.exe"
 
-3. when the program opens, it should default to your New Vegas installation folder. If it does not, click "Browse", and navigate there, then click "Ok".
+3. when the program opens, it should automatically detect your New Vegas and Fallout 3 installation folders. If it does not, click "Browse", and navigate there, then click "Ok".
 
-4. Run the program. It will take a little while, but trust me, it will be worth it. Afterwords, close out of the program.
+4. On the line labelled "Tale of Two Wastelands", click "Browse". Go to the "Mods" folder of your My Kind of Courier installation directory, and create a folder called "Tale of Two Wastelands" if one does not exist (If one does, make sure it is empty), double-click on it, and choose "Select Folder" in the bottom right corner.
+
+5. The installation should begin after clicking "Install". This will take a WHILE to run, so I'd step away from my PC and....do whatever people do when they aren't staring at a screen. Such a scenario frightens me.
+
+Once the installation is complete, proceed to the next section.
 
 ## Starting the game
 
-Once you've finished installing the modlist, simply navigate to your installation folder for the modlist, open ModOrganizer.exe, and launch it via the New Vegas option, which should be selected for you. If not, simply choose it from the drop-down and click "run". If the launcher comes up to do graphics settings again, simply set your preferred settings, then exit out of the launcher and launch the game agan.
-
-## MCM Settings
-
-This list includes several mods which utilize hotkey shortcuts. I have no real recommendations regarding these, but I advise you look through the few MCMs there are and set up keybinds however you wish.
+Once you've finished installing TTW, simply navigate to your installation folder for the modlist and open ModOrganizer.exe. Your "Tale of Two Wastelands" mod should be either at the bottom in the left-hand pane, or under the divider labelled "TTW". If it's the former, drag it up to the "TTW" separator and enable it. If it's the latter, simply enable the mod. After this, copy my Load Order.txt to your "My Kind of Courier\profiles\My Kind of Courier" directory (can be acquired from [Here] (https://github.com/Patchier/No-Not-Vegas/blob/main/loadorder.txt), overriting when asked, then hit the "Refresh" button within MO2 to refresh the load order to what it should be. After that, you may launch the game via the New Vegas option, which should be selected for you in the top right corner. If not, simply choose it from the drop-down and click "run". If the launcher comes up to do graphics settings again, simply set your preferred settings, then exit out of the launcher and launch the game agan.
