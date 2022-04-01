@@ -17,6 +17,22 @@ This ReadMe is designed to help you with installing and beginning your adventure
 
 -  Have fun!
 
+## NOTABLE MODS
+
+Tale of Two Wastelands - The Big Boi of New Vegas modding. Combines Fallout 3 and New Vegas into a single, cohesive world, allowing you to play both games in their entirety at the same time. 
+
+Tales of New Reno - An expansive series of mods based around the city of New Reno. A work-in-progress, but an excellent one nonetheless. Expect to see New Reno herself in Episode 3!
+
+Bleedless - A modified version of the excellent BLEED mod, along with its damage scaling optional plugin, means that combat is far less of a slugging match, and more a game of "don't get shot". 
+
+Stewie Tweaks - My own custom take on Stewie Tweaks, forked from Qolore's. Fast travel requires working legs, pickpocketing is improved, and even just entering VATS requires AP. Effort takes energy. Who knew?!
+
+SawyerBatty - A version of JSAWYER's mod which makes a few balance edits, bugfixes, and error tweaks, specifically tuned for the TTW experience. Don't expect a cakewalk through the wastelands anymore!
+
+Weapon Requirements System - Makes weapon Strength and Skill requirements matter, allowing you to use any weapon but assigning significant dynamic penalties for those you aren't proficient with. Don't expect to be a badass without those requirements!
+
+I have also set JIP to separate headgear DR/DT from body armor DR/DT, and to allow NPCs (including enemies) to get sneak attack criticals. Aim for the head, and keep yours covered!
+
 ## SPECIFICATIONS
 
 - Stewie's Tweaks:
