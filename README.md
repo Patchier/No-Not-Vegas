@@ -19,11 +19,11 @@ This ReadMe is designed to help you with installing and beginning your adventure
 
 ## SPECIFICATIONS
 
-- Stewie's Tweaks
+- Stewie's Tweaks:
 M to open the map
 J to open the quest journal
 
-- JIP Companions Command & Control
+- JIP Companions Command & Control:
 C to open the companion menu
 Mousewheel to scroll through options
 Middle mouse button to activate options
