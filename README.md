@@ -1,6 +1,6 @@
 # My Kind of Courier
 
-October 22nd, 2021 - Full Install: ~54GB.
+October 22nd, 2021 - Full Install: ~65GB.
 
 **Modlist Download: [My kind of Courier.wabbajack](https://drive.google.com/drive/folders/1lYxE8Zg5wcI5Cn6mYuMdVyhRlWGnH8iU)**
 
@@ -9,13 +9,13 @@ October 22nd, 2021 - Full Install: ~54GB.
 
 ## OVERVIEW
 
-This ReadMe is designed to help you with installing and beginning your adventures in New Vegas, with a few friends along.
+This ReadMe is designed to help you with installing and beginning your adventures across the US, including Vegas, Reno, and even the Capitol Wasteland.
 
 ## GOALS
 
--  Install and make minor configuration to Fallout: New Vegas.
+-  Install and setup My Kind of Courier alongside Tale of Two Wastelands.
 
--  Install and get started with My Kind of Courier!
+-  Have fun!
 
 ## SPECIFICATIONS
 
