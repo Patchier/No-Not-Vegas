@@ -15,7 +15,7 @@ This ReadMe is designed to help you with installing and beginning your adventure
 
 -  Install and setup My Kind of Courier alongside Tale of Two Wastelands.
 
--  Have fun!
+-  The overall goal of MKoC is to combine two of my favorite games, Fallout 3 and New Vegas, while also providing a little bit extra to explore. By including Tales of New Reno, I hope to create more fans of what I consider to be a criminally underrated series of mods, which will eventually culminate in the city of New Reno itself, letting us see how it has progressed since Fallout 2, without needing to wait on Bethesda. In addition to the bugfixes, QoL tweaks, and adjustments to combat, I hope to create a fun, slightly challenging, and overall immersive experience within the twin wastelands of DC and Vegas.  
 
 ## NOTABLE MODS
 
