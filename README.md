@@ -31,6 +31,8 @@ SawyerBatty - A version of JSAWYER's mod which makes a few balance edits, bugfix
 
 Weapon Requirements System - Makes weapon Strength and Skill requirements matter, allowing you to use any weapon but assigning significant dynamic penalties for those you aren't proficient with. Don't expect to be a badass without those requirements!
 
+Stash Organizer - In any interior cell, or player-owned exterior cell, press the VATS key on any contained to start what is probably the best sorting mod known to man. I actually recommend reading it yourself so you can see what all it does. Check it out [here](https://eddoursul.win/mods/stash-organizer/).
+
 I have also set JIP to separate headgear DR/DT from body armor DR/DT, and to allow NPCs (including enemies) to get sneak attack criticals. Aim for the head, and keep yours covered!
 
 ## SPECIFICATIONS
