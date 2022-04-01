@@ -19,7 +19,25 @@ This ReadMe is designed to help you with installing and beginning your adventure
 
 ## SPECIFICATIONS
 
-- This list does not have any specific MCM tweaks, but it DOES have an extra step during the installation phase. Be sure to follow ALL instructions.
+- Stewie's Tweaks
+M to open the map
+J to open the quest journal
+
+- JIP Companions Command & Control
+C to open the companion menu
+Mousewheel to scroll through options
+Middle mouse button to activate options
+
+- JIP Minimap:
+N to enable/disable the minimap
+Hold N to switch between local and world map modes
+
+- Stash Organizer:
+VATS key on an interior container
+
+- Main & Pause Menu Overhaul:
+M to show/hide the MCM
+N to configure Main & Pause Menu Overhaul
 
 ## First off, you will need:
 
