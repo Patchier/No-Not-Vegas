@@ -87,7 +87,6 @@ FafnirUniqueTTWOverhaul.esp
 S6S Base Game Perks Redux.esp
 S6S Base Game Perks Redux TTW Side.esp
 S6S Perks.esp
-The Way - A Small Trait Mod.esp
 El Dorado Substation trusts an idolized Courier.esp
 Player Combat Priority.esp
 RAD.esp
@@ -113,6 +112,7 @@ TTW Quick Start Item Remover.esp
 PAVE_NV.esp
 PAVE_TTW.esp
 PAVE - TTW Patch.esp
+Rebuild the Capital-PAVE.esp
 Bleedout - TTW.esp
 Benny Humbles You and Steals Your Stuff.esp
 Bottle Rinse Repeat.esp
@@ -134,6 +134,7 @@ Wild Wasteland Prompt.esp
 Wasteland Starting Gear DC.esp
 WeaponRequirementSystem.esp
 CPI Icons.esp
+Patchy's Pathetic Swap.esp
 Patchy's Patching Patch.esp
 FNVLODGen.esp
 tmzLODadditions.esp
