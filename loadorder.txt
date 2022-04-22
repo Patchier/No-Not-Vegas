@@ -32,8 +32,14 @@ A Very Uncreative Jacobstown Bungalow.esm
 Abandoned Safehouse TTW.esm
 Home and Safehouse Tweaks.esm
 Own The Ultra-Luxe Penthouse.esm
+Brotherhood and House Truce.esm
+Brotherhood and Legion Truce.esm
+House and Followers Truce.esm
+House and Kings Truce.esm
 Hardin and NCR Truce.esm
 House and NCR Truce.esm
+Friendly Securitrons.esm
+Three Families Alliances.esm
 Bathroom Doors Overhaul.esm
 Harder New Vegas Strip Access.esm
 Main And Pause Menus Overhaul.esm
@@ -82,7 +88,6 @@ gra scavenger hunt unbalanced - ttw patch.esp
 Little More Lamplight.esp
 Mojave Raiders.esp
 Mojave Wildlife (FO3-Style).esp
-PerkPackPlus.esp
 FafnirUniqueTTWOverhaul.esp
 S6S Base Game Perks Redux.esp
 S6S Base Game Perks Redux TTW Side.esp
@@ -109,10 +114,6 @@ Tutorial Killer.esp
 TTWMergedQuests.esp
 TTW Quick Start.esp
 TTW Quick Start Item Remover.esp
-PAVE_NV.esp
-PAVE_TTW.esp
-PAVE - TTW Patch.esp
-Rebuild the Capital-PAVE.esp
 Bleedout - TTW.esp
 Benny Humbles You and Steals Your Stuff.esp
 Bottle Rinse Repeat.esp
@@ -127,7 +128,6 @@ FPGE Patch - Mojave Raiders.esp
 uncut extra collection - ttw patch.esp
 uncut wasteland - ttw patch.esp
 ttw - mojave raiders patch.esp
-PPP33.esp
 TTWTransportalponderEx.esp
 Wild wasteland Animation pack.esp
 Wild Wasteland Prompt.esp
@@ -138,5 +138,4 @@ Patchy's Pathetic Swap.esp
 Patchy's Patching Patch.esp
 FNVLODGen.esp
 tmzLODadditions.esp
-Altitude.esp
-Simple Natural Weathers for TTW.esp
+DNWeathers.esp
